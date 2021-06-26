@@ -20,5 +20,3 @@ If you have any idea for improving this project, please don’t hesitate to let 
 REFERENCE
 ---------
 [1] https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html  "mRNA vaccines"  
-
-
