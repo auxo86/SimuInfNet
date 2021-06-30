@@ -4,6 +4,10 @@ We can preview the result by adjusting the parameters.
 
 OVERVIEW
 --------
+Here is example:  
+<img src="./SamplePic/VaccOnSocialActive.png" alt="vaccinate on social active people" width="50%" height="50%">
+
+
 The node color means:  
 *   Red: infected
 *   Green: vaccinated
