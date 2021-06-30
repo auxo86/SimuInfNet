@@ -12,9 +12,11 @@ FEATURE
 
 OVERVIEW
 --------
-Here is example:  
+Here are examples:  
 <img src="./SamplePic/VaccOnSocialActive.png" alt="vaccinate on social active people" width="50%" height="50%">
+<img src="./SamplePic/VaccOnBorder.png" alt="vaccinate on people not social active" width="50%" height="50%">
 
+## Above are two different vaccination policy.
 
 The node color means:  
 *   Red: infected
