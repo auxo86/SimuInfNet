@@ -33,7 +33,6 @@ LIMITATION
 ----------
 *   not consider mortality and its effect.
 *   not consider effect of social distance.
-*   not consider effect of quarantine policy.
 
 
 REFERENCE
