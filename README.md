@@ -5,9 +5,10 @@ We can preview the result by adjusting the parameters.
 FEATURE
 -------
 *   modified [SIR model] [1] (use vaccination instead of recovery).
-*   designed by multiprocessing pattern for computing effecacy improving on multiple CPU machine.
+*   designed by multiprocessing pattern for computing effecacy improving on multiple CPUs machine.
 *   infecitivity variate with time
 *   one person usually will interactive with the same people, and this model adopts this rule. However, we determin the contact people number by uniform probability (default between 0.9-1).
+*   the probability of be infected is determinated by the patient's infecitivity. 
 
 OVERVIEW
 --------
