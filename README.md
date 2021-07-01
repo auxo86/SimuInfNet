@@ -11,8 +11,7 @@ FEATURE
 *   the probability of be infected determinates by the patient's infectivity. 
 
 OVERVIEW
---------
-Here are examples:  
+-------- 
 <img src="./SamplePic/VaccOnBorder.png" alt="vaccinate on people not social active" width="50%" height="50%">
 <img src="./SamplePic/VaccOnSocialActive.png" alt="vaccinate on social active people" width="50%" height="50%">
 
