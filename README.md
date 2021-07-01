@@ -1,6 +1,6 @@
 # SimuInfNet
 This is a simulator of COVID-19 transmission model constructed by pyvis.  
-We can preview the result by adjusting the parameters.
+We can visualize the result by adjusting the parameters.
 
 FEATURE
 -------
