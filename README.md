@@ -30,7 +30,7 @@ The first seed is node 0.
 
 Node in the middle area means more social activity with other persons and less in the marginal zone.  
 
-This model tell us that we might protect 95% people by vaccinating 25% persons with [*mRNA vaccines*] [2] in the middle area if we take immediate action in the first 5-10 days.
+This model tell us that we might protect about 85% people by vaccinating 25% persons with [*mRNA vaccines*] [2] in the middle area if we take immediate action in the first 5-10 days.
 
 If you have any idea for improving this project, please don’t hesitate to let me know.  
 
