@@ -13,10 +13,13 @@ FEATURE
 OVERVIEW
 --------
 Here are examples:  
-<img src="./SamplePic/VaccOnSocialActive.png" alt="vaccinate on social active people" width="50%" height="50%">
 <img src="./SamplePic/VaccOnBorder.png" alt="vaccinate on people not social active" width="50%" height="50%">
+<img src="./SamplePic/VaccOnSocialActive.png" alt="vaccinate on social active people" width="50%" height="50%">
 
-## Above are two different vaccination policy.
+### Above are two different vaccination strategy.
+The 1st one is vaccination on people who less contact with others, ane the 2nd is on those more social activities.
+These two pictures are simulated under the same conditions, but just different vaccination strategy.  
+Obviously, the latter can protect more people who have not been vaccinated(the blue nodes).  
 
 The node color means:  
 *   Red: infected
@@ -27,7 +30,7 @@ The first seed is node 0.
 
 Node in the middle area means more social activity with other persons and less in the marginal zone.  
 
-This model tell us that we might protect 95% people by vaccinating 25% persons with [*mRNA vaccines*] [2] in the middle area if we take immediate action in the first 5-10 days.
+This model tell us that we might protect 85% people by vaccinating 25% persons with [*mRNA vaccines*] [2] in the middle area if we take immediate action in the first 5-10 days.
 
 If you have any idea for improving this project, please don’t hesitate to let me know.  
 
