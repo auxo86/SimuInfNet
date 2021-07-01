@@ -16,7 +16,9 @@ Here are examples:
 <img src="./SamplePic/VaccOnSocialActive.png" alt="vaccinate on social active people" width="50%" height="50%">
 <img src="./SamplePic/VaccOnBorder.png" alt="vaccinate on people not social active" width="50%" height="50%">
 
-## Above are two different vaccination policy.
+## Above are two different vaccination policies.
+the 1st one is vaccination on people who are not social active(for example, people quarantined at home), and the 2nd one is vaccination on those who contact others frequently(for example, convenience store clerks).
+Obviously, the latter can protect more people who are not vaccin
 
 The node color means:  
 *   Red: infected
