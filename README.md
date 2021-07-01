@@ -80,6 +80,7 @@ PARAMETERS SETTINGS
     # weight for select one item of tupleMaxConn
     tupleWtOfChoiceMaxConn = (2, 11, 13, 3)
     # the dictionary used for infectivity (variated with days, for example, the infectivity on 4th day after infected is 40%)
+    # and you can simulate wearing face mask and effect of social distance here 
     dictInfectivity = {1: 0, 2: 0, 3: 0, 4: 0.6, 5: 0.7, 6: 0.6, 7: 0.4, 8: 0.2, 9: 0.1, 10: 0}
     # dictInfectivity = {1: 0, 2: 0, 3: 0, 4: 0.1, 5: 0.1, 6: 0.1, 7: 0.1, 8: 0.1, 9: 0.1, 10: 0}
     
@@ -90,7 +91,6 @@ PARAMETERS SETTINGS
 LIMITATION
 ----------
 *   not consider mortality and its effect.
-*   not consider effect of social distance.
 
 
 REFERENCE
