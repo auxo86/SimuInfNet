@@ -90,9 +90,11 @@ PARAMETERS SETTINGS
 LIMITATION
 ----------
 *   not consider mortality and its effect.
+*   Assuming that one won’t infect others immediately after a shot of vaccine. Recent data reveals that in an adjusted model, the viral RNA load was 40% lower (95% CI, 16.3 to 57.3) with at least partial vaccination than with no vaccination. [3] However, the relationship among viral load, viral shedding, and infectivity is not clear. If somebody get the data, please inform me.
 
 
 REFERENCE
 ---------
 [1] https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-the-differential-equation-model "SIR model"  
 [2] https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html "mRNA vaccines"  
+[3] https://www.nejm.org/doi/full/10.1056/NEJMoa2107058?query=recirc_mostViewed_railB_article "viral RNA load"  
