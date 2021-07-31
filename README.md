@@ -91,6 +91,7 @@ LIMITATION
 ----------
 *   not consider mortality and its effect.
 *   Assuming that one won’t infect others immediately after a shot of vaccine. Recent data reveals that in an adjusted model, the viral RNA load was 40% lower (95% CI, 16.3 to 57.3) with at least partial vaccination than with no vaccination. [3] However, the relationship among viral load, viral shedding, and infectivity is not clear. If somebody get the data, please inform me.
+*   not for delta variant.
 
 
 REFERENCE
